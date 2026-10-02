@@ -130,6 +130,7 @@ if st.button("🔍 Check Job Posting"):
 st.divider()
 
 st.caption(
+    "By Yash |"
     "Fake Job Posting Detection | "
     "TF-IDF + Logistic Regression + Streamlit"
 )
