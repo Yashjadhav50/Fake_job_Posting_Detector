@@ -10,6 +10,9 @@ This project uses Natural Language Processing (NLP) and Machine Learning to clas
 
 The application allows users to enter job posting details and receive a prediction through an interactive Streamlit interface.
 
+## Link: -
+https://fakejobpostingdetector-by-yash.streamlit.app/
+
 ## 🧠 Machine Learning Workflow
 
 1. Data Collection
